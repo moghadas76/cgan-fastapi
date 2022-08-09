@@ -1,0 +1,5 @@
+strawberry-graphql[debug-server]
+uvicorn[standard]
+fastapi
+strawberry-graphql[fastapi]
+# torch
