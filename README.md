@@ -16,7 +16,7 @@ Generate new image based on rock_paper_scissors [dataset|https://www.tensorflow.
 Each request which conforms graphQL conventions generate 24 new images on the project directory and return its path. 
 
 
-## GraphQL Request sampel
+## GraphQL Request sample
 
 ```bash
 curl 'http://127.0.0.1:8001/graphql' \
